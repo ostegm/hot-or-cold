@@ -1,0 +1,1 @@
+# A hot or cold guessing game to learn React.
